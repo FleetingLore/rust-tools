@@ -1,0 +1,3 @@
+[workspace]
+members = ["background", "rust_tools", "stream", "ui", "v-1-0"]
+resolver = "3"

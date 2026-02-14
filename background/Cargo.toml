@@ -1,0 +1,9 @@
+[package]
+name = "background"
+version = "0.1.0"
+edition = "2024"
+description = "环境检测库"
+
+[lib]
+name = "backgrond"
+path = "src/lib.rs"
